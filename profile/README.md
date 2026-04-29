@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" alt="APIDot — Unified AI API Platform" width="100%">
+<img src="https://raw.githubusercontent.com/APIDotAI/.github/main/profile/assets/header.svg" alt="APIDot — Unified AI API Platform" width="100%">
 
 <br />
 <br />
