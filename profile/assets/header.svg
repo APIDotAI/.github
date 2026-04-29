@@ -5,7 +5,7 @@
       <stop offset="1" stop-color="#111827"/>
     </linearGradient>
 
-    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(420 150) rotate(20) scale(360 240)">
+    <radialGradient id="glowGreen" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(430 160) rotate(20) scale(360 240)">
       <stop stop-color="#16A34A" stop-opacity="0.30"/>
       <stop offset="1" stop-color="#16A34A" stop-opacity="0"/>
     </radialGradient>
@@ -32,22 +32,22 @@
   </g>
 
   <g>
-    <rect x="74" y="84" width="72" height="72" rx="20" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.10)"/>
-    <image href="https://storage.apidot.ai/logo.png" x="82" y="92" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
+    <rect x="74" y="54" width="76" height="76" rx="22" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.10)"/>
+    <image href="https://raw.githubusercontent.com/APIDotAI/.github/main/profile/assets/logo.png" x="84" y="64" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
 
-    <text x="74" y="200" fill="#F8FAFC" font-size="72" font-family="Inter, Arial, sans-serif" font-weight="800">APIDot</text>
-    <text x="74" y="254" fill="#E5E7EB" font-size="26" font-family="Inter, Arial, sans-serif" font-weight="500">
+    <text x="74" y="196" fill="#F8FAFC" font-size="72" font-family="Inter, Arial, sans-serif" font-weight="800">APIDot</text>
+    <text x="74" y="248" fill="#E5E7EB" font-size="26" font-family="Inter, Arial, sans-serif" font-weight="500">
       One API for production-ready image, video, chat, and music models
     </text>
-    <text x="74" y="304" fill="#94A3B8" font-size="20" font-family="Inter, Arial, sans-serif" font-weight="400">
+    <text x="74" y="296" fill="#94A3B8" font-size="20" font-family="Inter, Arial, sans-serif" font-weight="400">
       Unified access to frontier models, docs, examples, and usage-based pricing
     </text>
 
-    <rect x="74" y="350" width="150" height="46" rx="12" fill="#16A34A"/>
-    <text x="149" y="379" text-anchor="middle" fill="white" font-size="18" font-family="Inter, Arial, sans-serif" font-weight="700">Get Started</text>
+    <rect x="74" y="342" width="150" height="46" rx="12" fill="#16A34A"/>
+    <text x="149" y="371" text-anchor="middle" fill="white" font-size="18" font-family="Inter, Arial, sans-serif" font-weight="700">Get Started</text>
 
-    <rect x="240" y="350" width="136" height="46" rx="12" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.12)"/>
-    <text x="308" y="379" text-anchor="middle" fill="#E5E7EB" font-size="18" font-family="Inter, Arial, sans-serif" font-weight="700">API Docs</text>
+    <rect x="240" y="342" width="136" height="46" rx="12" fill="rgba(255,255,255,0.08)" stroke="rgba(255,255,255,0.12)"/>
+    <text x="308" y="371" text-anchor="middle" fill="#E5E7EB" font-size="18" font-family="Inter, Arial, sans-serif" font-weight="700">API Docs</text>
   </g>
 
   <g>
