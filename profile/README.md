@@ -1,14 +1,18 @@
 <div align="center">
 
-# APIDot
+<img src="./assets/header.svg" alt="APIDot — Unified AI API Platform" width="100%">
 
-**One API for production-ready image, video, chat, and music models.**
+<br />
+<br />
 
-[![Website](https://img.shields.io/badge/Website-apidot.ai-0f172a?style=for-the-badge)](https://apidot.ai)
-[![Docs](https://img.shields.io/badge/API-Docs-16a34a?style=for-the-badge)](https://apidot.ai/docs)
-[![Models](https://img.shields.io/badge/Browse-Models-0284c7?style=for-the-badge)](https://apidot.ai/models)
+[![Get Started](https://img.shields.io/badge/Get_Started-apidot.ai-0f172a?style=for-the-badge)](https://apidot.ai)
+[![API Docs](https://img.shields.io/badge/API-Docs-16a34a?style=for-the-badge)](https://apidot.ai/docs)
+[![All Models](https://img.shields.io/badge/Browse-Models-0284c7?style=for-the-badge)](https://apidot.ai/models)
 [![Examples](https://img.shields.io/badge/View-Examples-7c3aed?style=for-the-badge)](https://github.com/APIDotAI/apidot-examples)
 
+<br />
+
+[![Website](https://img.shields.io/website?url=https%3A%2F%2Fapidot.ai&style=flat-square&label=website&color=16a34a)](https://apidot.ai)
 [![X](https://img.shields.io/badge/X-%40ApiDot63748-111111?style=flat-square&logo=x)](https://x.com/ApiDot63748)
 [![GitHub](https://img.shields.io/badge/GitHub-APIDotAI-111111?style=flat-square&logo=github)](https://github.com/APIDotAI)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/bu5hVztmHu)
@@ -18,45 +22,37 @@
 
 ---
 
-## What APIDot is
+## Unified access to frontier AI models
 
-APIDot helps developers ship AI features through one unified platform instead of stitching together separate providers, auth flows, billing models, and webhook patterns.
-
-You get a cleaner path from testing to production for:
-
-- Image generation and editing
-- Video generation workflows
-- Chat and reasoning use cases
-- Music and audio generation
-- Shared docs, examples, and usage-based pricing
+APIDot helps developers integrate production-ready image, video, chat, and music models through one platform instead of stitching together multiple providers, auth flows, billing systems, and webhook patterns.
 
 ## Model coverage
 
 | Category | Example model families |
 | :-- | :-- |
-| **Chat** | Claude, GPT, Gemini |
-| **Image** | GPT Image, FLUX, Seedream |
-| **Video** | Veo, Seedance, Kling |
-| **Music** | MiniMax Music and async audio workflows |
+| **Chat** | ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square) ![GPT](https://img.shields.io/badge/GPT-111827?style=flat-square) ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square) |
+| **Image** | ![GPT Image](https://img.shields.io/badge/GPT_Image-111827?style=flat-square) ![FLUX](https://img.shields.io/badge/FLUX-ec4899?style=flat-square) ![Seedream](https://img.shields.io/badge/Seedream-10b981?style=flat-square) |
+| **Video** | ![Veo](https://img.shields.io/badge/Veo-4285F4?style=flat-square) ![Seedance](https://img.shields.io/badge/Seedance-0f766e?style=flat-square) ![Kling](https://img.shields.io/badge/Kling-2563eb?style=flat-square) |
+| **Music** | ![MiniMax Music](https://img.shields.io/badge/MiniMax_Music-f97316?style=flat-square) |
 
 ## Start here
 
 - **Website**: https://apidot.ai
 - **Docs**: https://apidot.ai/docs
-- **Model catalog**: https://apidot.ai/models
-- **Examples repo**: https://github.com/APIDotAI/apidot-examples
+- **Models**: https://apidot.ai/models
+- **Examples**: https://github.com/APIDotAI/apidot-examples
 
-## Good fit for
+## Why teams use APIDot
 
-- Teams adding AI generation into existing products
-- Internal tools that need one consistent API layer
-- Rapid prototyping before committing to a single provider
-- Production integrations that need docs, examples, and predictable entry points
+- One API surface for multiple model categories
+- Cleaner path from playground testing to production integration
+- Shared docs and examples instead of provider-by-provider glue code
+- Usage-based access through one developer-facing platform
 
 ---
 
 <div align="center">
 
-<sub>Built by the APIDot team · https://apidot.ai · support@apidot.ai</sub>
+<sub>Built by the APIDot team · <a href="https://apidot.ai">apidot.ai</a> · <a href="mailto:support@apidot.ai">support@apidot.ai</a></sub>
 
 </div>
