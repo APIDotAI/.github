@@ -32,8 +32,8 @@
   </g>
 
   <g>
-    <rect x="74" y="84" width="64" height="64" rx="18" fill="rgba(255,255,255,0.07)" stroke="rgba(255,255,255,0.12)"/>
-    <text x="106" y="124" text-anchor="middle" fill="#F8FAFC" font-size="30" font-family="Inter, Arial, sans-serif" font-weight="700">D</text>
+    <rect x="74" y="84" width="72" height="72" rx="20" fill="rgba(255,255,255,0.06)" stroke="rgba(255,255,255,0.10)"/>
+    <image href="https://storage.apidot.ai/logo.png" x="82" y="92" width="56" height="56" preserveAspectRatio="xMidYMid meet"/>
 
     <text x="74" y="200" fill="#F8FAFC" font-size="72" font-family="Inter, Arial, sans-serif" font-weight="800">APIDot</text>
     <text x="74" y="254" fill="#E5E7EB" font-size="26" font-family="Inter, Arial, sans-serif" font-weight="500">
