@@ -1,9 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/APIDotAI/.github/main/profile/assets/header.svg" alt="APIDot — Unified AI API Platform" width="100%">
+<a href="https://apidot.ai" target="_blank" rel="noopener noreferrer">
+  <img src="https://raw.githubusercontent.com/APIDotAI/.github/main/profile/assets/header.svg" alt="APIDot — Unified AI API Platform" width="100%">
+</a>
 
 <br />
 <br />
+
 
 [![Get Started](https://img.shields.io/badge/Get_Started-apidot.ai-0f172a?style=for-the-badge)](https://apidot.ai)
 [![API Docs](https://img.shields.io/badge/API-Docs-16a34a?style=for-the-badge)](https://apidot.ai/docs)
