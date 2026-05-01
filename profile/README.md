@@ -16,7 +16,7 @@
 <br />
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fapidot.ai&style=flat-square&label=website&color=16a34a)](https://apidot.ai)
-[![X](https://img.shields.io/badge/X-%40ApiDot63748-111111?style=flat-square&logo=x)](https://x.com/ApiDot63748)
+[![X](https://img.shields.io/badge/X-%40APIDotAI-111111?style=flat-square&logo=x)](https://x.com/APIDotAI)
 [![GitHub](https://img.shields.io/badge/GitHub-APIDotAI-111111?style=flat-square&logo=github)](https://github.com/APIDotAI)
 [![Discord](https://img.shields.io/badge/Discord-Community-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/bu5hVztmHu)
 [![Email](https://img.shields.io/badge/Email-support%40apidot.ai-0f766e?style=flat-square&logo=gmail&logoColor=white)](mailto:support@apidot.ai)
