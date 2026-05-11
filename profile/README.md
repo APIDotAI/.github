@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://apidot.ai" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/APIDotAI/.github/main/profile/assets/header-dev-api.svg?v=4" alt="APIDot - Unified AI API Platform" width="100%">
+  <img src="https://raw.githubusercontent.com/APIDotAI/.github/main/profile/assets/header-dev-api.svg?v=5" alt="APIDot - Unified AI API Platform" width="100%">
 </a>
 
 <br />
