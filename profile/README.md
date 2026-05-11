@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://apidot.ai" target="_blank" rel="noopener noreferrer">
-  <img src="https://raw.githubusercontent.com/APIDotAI/.github/main/profile/assets/header-dev-api.svg?v=1" alt="APIDot - Unified AI API Platform" width="100%">
+  <img src="https://raw.githubusercontent.com/APIDotAI/.github/main/profile/assets/header-dev-api.svg?v=2" alt="APIDot - Unified AI API Platform" width="100%">
 </a>
 
 <br />
@@ -56,6 +56,6 @@ APIDot helps developers integrate production-ready image, video, chat, and music
 
 <div align="center">
 
-<sub>Built by the APIDot team · <a href="https://apidot.ai">apidot.ai</a> · <a href="mailto:support@apidot.ai">support@apidot.ai</a></sub>
+<sub>Built by the APIDot team | <a href="https://apidot.ai">apidot.ai</a> | <a href="mailto:support@apidot.ai">support@apidot.ai</a></sub>
 
 </div>
