@@ -38,6 +38,22 @@ APIDot helps developers integrate production-ready image, video, chat, and music
 | **Video** | ![Veo](https://img.shields.io/badge/Veo-4285F4?style=flat-square) ![Seedance](https://img.shields.io/badge/Seedance-0f766e?style=flat-square) ![Kling](https://img.shields.io/badge/Kling-2563eb?style=flat-square) |
 | **Music** | ![MiniMax Music](https://img.shields.io/badge/MiniMax_Music-f97316?style=flat-square) |
 
+## Popular model API repositories
+
+| Image model | API examples |
+| :-- | :-- |
+| GPT Image 2 | [gpt-image-2-api](https://github.com/APIDotAI/gpt-image-2-api) |
+| Nano Banana 2 | [nano-banana-2-api](https://github.com/APIDotAI/nano-banana-2-api) |
+| Nano Banana Pro | [nano-banana-pro-api](https://github.com/APIDotAI/nano-banana-pro-api) |
+| Seedream 4.5 | [seedream-4.5-api](https://github.com/APIDotAI/seedream-4.5-api) |
+
+| Video model | API examples |
+| :-- | :-- |
+| Seedance 2 | [seedance-2-api](https://github.com/APIDotAI/seedance-2-api) |
+| Sora 2 Official | [sora-2-official-api](https://github.com/APIDotAI/sora-2-official-api) |
+| Happy Horse | [happy-horse-api](https://github.com/APIDotAI/happy-horse-api) |
+| Veo 3.1 | [veo-3.1-api](https://github.com/APIDotAI/veo-3.1-api) |
+
 ## Start here
 
 - **Website**: https://apidot.ai
