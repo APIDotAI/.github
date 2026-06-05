@@ -8,10 +8,10 @@
 <br />
 
 
-[![Get Started](https://img.shields.io/badge/Get_Started-apidot.ai-0f172a?style=for-the-badge)](https://apidot.ai)
+[![Get API Key](https://img.shields.io/badge/Get_API_Key-apidot.ai-0f172a?style=for-the-badge)](https://apidot.ai/dashboard/api-key)
 [![API Docs](https://img.shields.io/badge/API-Docs-16a34a?style=for-the-badge)](https://apidot.ai/docs)
-[![All Models](https://img.shields.io/badge/Browse-Models-0284c7?style=for-the-badge)](https://apidot.ai/models)
-[![Examples](https://img.shields.io/badge/View-Examples-7c3aed?style=for-the-badge)](https://github.com/APIDotAI/apidot-examples)
+[![Browse Models](https://img.shields.io/badge/Browse-Models-0284c7?style=for-the-badge)](https://apidot.ai/models)
+[![Run Examples](https://img.shields.io/badge/Run-Examples-7c3aed?style=for-the-badge)](https://github.com/APIDotAI/apidot-examples)
 
 <br />
 
@@ -25,9 +25,11 @@
 
 ---
 
-## Unified access to frontier AI models
+## Unified AI APIs for developers
 
-APIDot helps developers integrate production-ready image, video, chat, and music models through one platform instead of stitching together multiple providers, auth flows, billing systems, and webhook patterns.
+APIDot helps developers ship image, video, chat, music, and 3D AI features with one API key, one billing surface, and a shared async workflow for generation models. Use APIDot when you want to test models quickly, move from playground to backend code, and avoid stitching together provider-specific auth, pricing, polling, and webhook patterns.
+
+Start with [apidot-examples](https://github.com/APIDotAI/apidot-examples) for cURL and Node.js examples across image, video, chat, music, and 3D. The model-specific repositories below are focused deep dives for popular APIs.
 
 ## Model coverage
 
@@ -37,8 +39,21 @@ APIDot helps developers integrate production-ready image, video, chat, and music
 | **Image** | ![GPT Image](https://img.shields.io/badge/GPT_Image-111827?style=flat-square) ![FLUX](https://img.shields.io/badge/FLUX-ec4899?style=flat-square) ![Seedream](https://img.shields.io/badge/Seedream-10b981?style=flat-square) |
 | **Video** | ![Veo](https://img.shields.io/badge/Veo-4285F4?style=flat-square) ![Seedance](https://img.shields.io/badge/Seedance-0f766e?style=flat-square) ![Kling](https://img.shields.io/badge/Kling-2563eb?style=flat-square) |
 | **Music** | ![MiniMax Music](https://img.shields.io/badge/MiniMax_Music-f97316?style=flat-square) |
+| **3D** | ![Meshy](https://img.shields.io/badge/Meshy-7c3aed?style=flat-square) ![Tripo](https://img.shields.io/badge/Tripo-0ea5e9?style=flat-square) |
+
+## Start building
+
+| Step | Link |
+| :-- | :-- |
+| Create a server-side API key | [Get API key](https://apidot.ai/dashboard/api-key) |
+| Choose an image, video, chat, music, or 3D model | [Browse models](https://apidot.ai/models) |
+| Run cURL, Node.js, polling, and webhook examples | [apidot-examples](https://github.com/APIDotAI/apidot-examples) |
+| Read model-specific request shapes | [API docs](https://apidot.ai/docs) |
+| Get integration support | [Discord community](https://discord.gg/bu5hVztmHu) |
 
 ## Popular model API repositories
+
+These repositories are model-level API quickstarts. For the broadest starting point, use [apidot-examples](https://github.com/APIDotAI/apidot-examples).
 
 | Image model | API examples |
 | :-- | :-- |
@@ -54,18 +69,11 @@ APIDot helps developers integrate production-ready image, video, chat, and music
 | Happy Horse | [happy-horse-api](https://github.com/APIDotAI/happy-horse-api) |
 | Veo 3.1 | [veo-3.1-api](https://github.com/APIDotAI/veo-3.1-api) |
 
-## Start here
-
-- **Website**: https://apidot.ai
-- **Docs**: https://apidot.ai/docs
-- **Models**: https://apidot.ai/models
-- **Examples**: https://github.com/APIDotAI/apidot-examples
-
 ## Why teams use APIDot
 
-- One API surface for multiple model categories
-- Cleaner path from playground testing to production integration
-- Shared docs and examples instead of provider-by-provider glue code
+- One API surface for image, video, chat, music, and 3D models
+- Cleaner path from playground testing to production backend integration
+- Shared polling and webhook workflow for generation models
 - Usage-based access through one developer-facing platform
 
 ---
