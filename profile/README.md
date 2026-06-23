@@ -29,7 +29,7 @@
 
 APIDot helps developers ship image, video, chat, music, and 3D AI features with one API key, one billing surface, and a shared async workflow for generation models. Use APIDot when you want to test models quickly, move from playground to backend code, and avoid stitching together provider-specific auth, pricing, polling, and webhook patterns.
 
-Start with [apidot-examples](https://github.com/APIDotAI/apidot-examples) for cURL and Node.js examples across image, video, chat, music, and 3D. The model-specific repositories below are focused deep dives for popular APIs.
+Start with [apidot-examples](https://github.com/APIDotAI/apidot-examples) for cURL and Node.js examples across image, video, chat, music, and 3D. Use the model-specific repositories below when you need exact request shapes, polling and webhook notes, and production integration guidance for a single API.
 
 ## Model coverage
 
@@ -53,7 +53,7 @@ Start with [apidot-examples](https://github.com/APIDotAI/apidot-examples) for cU
 
 ## Popular model API repositories
 
-These repositories are model-level API quickstarts. For the broadest starting point, use [apidot-examples](https://github.com/APIDotAI/apidot-examples).
+These repositories are model-level API quickstarts focused on request shapes, polling, webhooks, and production notes. For the broadest starting point, use [apidot-examples](https://github.com/APIDotAI/apidot-examples). For current pricing, availability, and usage terms, use the linked APIDot model pages and docs.
 
 | Image model | API examples |
 | :-- | :-- |
